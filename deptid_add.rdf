@@ -1520,6 +1520,18 @@
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n438002092">
         <ufVivo:deptid>16029050</ufVivo:deptid>
     </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278106">
+        <ufVivo:deptid>16030100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278106">
+        <ufVivo:deptid>16030400</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278106">
+        <ufVivo:deptid>16037000</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278106">
+        <ufVivo:deptid>16039050</ufVivo:deptid>
+    </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n133139">
         <ufVivo:deptid>16040350</ufVivo:deptid>
     </rdf:Description>
@@ -1925,6 +1937,12 @@
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278101">
         <ufVivo:deptid>16549050</ufVivo:deptid>
     </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n12369">
+        <ufVivo:deptid>16560300</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n12369">
+        <ufVivo:deptid>16560500</ufVivo:deptid>
+    </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n238341">
         <ufVivo:deptid>16587000</ufVivo:deptid>
     </rdf:Description>
@@ -2108,6 +2126,9 @@
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8858828">
         <ufVivo:deptid>16969000</ufVivo:deptid>
     </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n217016">
+        <ufVivo:deptid>16987000</ufVivo:deptid>
+    </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n32622">
         <ufVivo:deptid>17010502</ufVivo:deptid>
     </rdf:Description>
@@ -2209,6 +2230,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8858859">
         <ufVivo:deptid>18360100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n75480">
+        <ufVivo:deptid>18370100</ufVivo:deptid>
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278118">
         <ufVivo:deptid>19010401</ufVivo:deptid>
@@ -2327,6 +2351,12 @@
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n765322">
         <ufVivo:deptid>19370300</ufVivo:deptid>
     </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n957702794">
+        <ufVivo:deptid>19380200</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n957702794">
+        <ufVivo:deptid>19380300</ufVivo:deptid>
+    </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278125">
         <ufVivo:deptid>20010100</ufVivo:deptid>
     </rdf:Description>
@@ -2350,6 +2380,102 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
         <ufVivo:deptid>23050200</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070151</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070152</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070153</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070154</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070155</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070156</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070157</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070158</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070159</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070160</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070163</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070170</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070171</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070172</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1920628093">
+        <ufVivo:deptid>23070173</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080114</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080115</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080117</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080210</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080211</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080212</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080213</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080214</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080215</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080217</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080218</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080219</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080223</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080230</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080231</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080232</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
+        <ufVivo:deptid>23080233</ufVivo:deptid>
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243205">
         <ufVivo:deptid>23100200</ufVivo:deptid>
@@ -2489,6 +2615,9 @@
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1631571675">
         <ufVivo:deptid>23130133</ufVivo:deptid>
     </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n136830">
+        <ufVivo:deptid>23200100</ufVivo:deptid>
+    </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466111">
         <ufVivo:deptid>24010050</ufVivo:deptid>
     </rdf:Description>
@@ -2528,6 +2657,27 @@
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466111">
         <ufVivo:deptid>24050101</ufVivo:deptid>
     </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466111">
+        <ufVivo:deptid>24060201</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466111">
+        <ufVivo:deptid>24060202</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466111">
+        <ufVivo:deptid>24060204</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466111">
+        <ufVivo:deptid>24060205</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466111">
+        <ufVivo:deptid>24060206</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466111">
+        <ufVivo:deptid>24060207</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466111">
+        <ufVivo:deptid>24070401</ufVivo:deptid>
+    </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n259062">
         <ufVivo:deptid>24080200</ufVivo:deptid>
     </rdf:Description>
@@ -2554,6 +2704,42 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8858864">
         <ufVivo:deptid>26050300</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070101</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070102</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070200</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070201</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070202</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070203</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070204</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070300</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070301</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070302</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243217">
+        <ufVivo:deptid>26070303</ufVivo:deptid>
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278114">
         <ufVivo:deptid>27010200</ufVivo:deptid>
@@ -2588,6 +2774,9 @@
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n183358">
         <ufVivo:deptid>27030100</ufVivo:deptid>
     </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n47445">
+        <ufVivo:deptid>27040100</ufVivo:deptid>
+    </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n65156">
         <ufVivo:deptid>27060200</ufVivo:deptid>
     </rdf:Description>
@@ -2617,6 +2806,102 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n65156">
         <ufVivo:deptid>27061100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070200</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070201</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070202</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070203</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070300</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070301</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070302</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070400</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070500</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070501</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070502</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070503</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070505</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070506</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070507</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070600</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070601</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070602</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070603</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070700</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070800</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27070900</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071000</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071101</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071200</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071300</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071400</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071500</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071600</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071700</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2021222054">
+        <ufVivo:deptid>27071800</ufVivo:deptid>
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n153305">
         <ufVivo:deptid>27280200</ufVivo:deptid>
@@ -3419,6 +3704,9 @@
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n486361">
         <ufVivo:deptid>30200100</ufVivo:deptid>
     </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n500844">
+        <ufVivo:deptid>30210100</ufVivo:deptid>
+    </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n75222">
         <ufVivo:deptid>30300100</ufVivo:deptid>
     </rdf:Description>
@@ -3484,6 +3772,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466110">
         <ufVivo:deptid>32061400</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466110">
+        <ufVivo:deptid>32070100</ufVivo:deptid>
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n987230">
         <ufVivo:deptid>33010100</ufVivo:deptid>
@@ -3739,6 +4030,39 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n249381">
         <ufVivo:deptid>48000001</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n249381">
+        <ufVivo:deptid>48033000</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n20006">
+        <ufVivo:deptid>49010100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n86027">
+        <ufVivo:deptid>49100200</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n86027">
+        <ufVivo:deptid>49100300</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152255">
+        <ufVivo:deptid>49200100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152255">
+        <ufVivo:deptid>49200200</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152255">
+        <ufVivo:deptid>49200300</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152255">
+        <ufVivo:deptid>49200400</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152255">
+        <ufVivo:deptid>49200500</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152255">
+        <ufVivo:deptid>49200600</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n152255">
+        <ufVivo:deptid>49200700</ufVivo:deptid>
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n366312">
         <ufVivo:deptid>52010500</ufVivo:deptid>
@@ -5000,6 +5324,39 @@
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38620">
         <ufVivo:deptid>95032300</ufVivo:deptid>
     </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n74448">
+        <ufVivo:deptid>95040100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95330050</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95330100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95330200</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95330300</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95330400</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95330500</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95330600</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95330900</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n897551">
+        <ufVivo:deptid>95340100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n897551">
+        <ufVivo:deptid>95340200</ufVivo:deptid>
+    </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n119830">
         <ufVivo:deptid>95350100</ufVivo:deptid>
     </rdf:Description>
@@ -5134,6 +5491,18 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
         <ufVivo:deptid>95430900</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n897551">
+        <ufVivo:deptid>95440100</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n897551">
+        <ufVivo:deptid>95440200</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95451000</ufVivo:deptid>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87379">
+        <ufVivo:deptid>95452000</ufVivo:deptid>
     </rdf:Description>
 
 </rdf:RDF>

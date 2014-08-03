@@ -36,7 +36,10 @@ def skip_deptid(deptid):
         "^74", # institutional activities funds
         "^75", # contruction and rennovation funds
         "^76", # institutional activities funds
+        "^1831", # legacy ?
+        "^1832", # legacy ?
         "^1940", # accounting only
+        "^1922", # accounting only
         "36000000", # place holder for COM/PHHP joint programs
         "60990000", # financial reporting only
         "61210000",
@@ -45,7 +48,8 @@ def skip_deptid(deptid):
         "61240000", # four financial buckets in business affairs
         "64990000", # financial reporting only
         "27990000", # financial reporting only
-        "95000000" # place holder for DSO top level
+        "95000000", # place holder for DSO top level
+        "95360000"  # accounting only?
         ]
     import re
     skip = False
