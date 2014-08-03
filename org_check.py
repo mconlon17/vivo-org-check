@@ -42,14 +42,14 @@ def skip_deptid(deptid):
         "^1922", # accounting only
         "36000000", # place holder for COM/PHHP joint programs
         "60990000", # financial reporting only
-        "61210000",
-        "61220000",
-        "61230000",
-        "61240000", # four financial buckets in business affairs
+        "^6121",
+        "^6122",
+        "^6123",
+        "^6124", # four financial buckets in business affairs
         "64990000", # financial reporting only
         "27990000", # financial reporting only
         "95000000", # place holder for DSO top level
-        "95360000"  # accounting only?
+        "^9536"  # accounting only?
         ]
     import re
     skip = False
