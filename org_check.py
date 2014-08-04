@@ -98,7 +98,7 @@ for deptid in sorted(uf_deptids):
         skip = skip + 1
     elif name.startswith('HN'): # Harn does not follow the structure
         ardf = ardf + assert_data_property(vivo['57800000'],
-            "ufVivo:deptid", deptid)
+            "ufVivo:deptID", deptid)
         print datetime.now(), deptid, "added to Harn"
         l4add = l4add +1
     elif deptid[0:2] in ['05', '06', '07', '08', '35', '47', '52', '63',\
@@ -106,7 +106,7 @@ for deptid in sorted(uf_deptids):
         level2 = deptid[0:2]+'000000'
         if level2 in vivo:
             ardf = ardf + assert_data_property(vivo[level2],
-                "ufVivo:deptid", deptid)
+                "ufVivo:deptID", deptid)
             print datetime.now(), deptid, "added to L2", level2
             l2add = l2add + 1
         else:
@@ -123,19 +123,19 @@ for deptid in sorted(uf_deptids):
         if level4 in vivo:
             if deptid.endswith('00'):
                 ardf = ardf + assert_data_property(vivo[level4],
-                    "ufVivo:deptid", deptid)
+                    "ufVivo:deptID", deptid)
                 print datetime.now(), deptid, "added to L4", level4
                 l4add = l4add + 1
             else:
                 level6 = deptid[0:6]+'00'
                 if level6 in vivo:
                     ardf = ardf + assert_data_property(vivo[level6],
-                        "ufVivo:deptid", deptid)
+                        "ufVivo:deptID", deptid)
                     print datetime.now(), deptid, "added to L6", level6
                     l6add = l6add + 1
                 else:
                     ardf = ardf + assert_data_property(vivo[level4],
-                        "ufVivo:deptid", deptid)
+                        "ufVivo:deptID", deptid)
                     print datetime.now(), deptid, "added to L4", level4
                     l4add = l4add + 1
         else:
