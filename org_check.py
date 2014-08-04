@@ -4,7 +4,7 @@
     existing UF orgs.
 
     Version 0.1 MC 2014-08-02
-    --  Initial version.  Untested
+    --  Initial version.  Works as expected.
 
     To do:
     --  update for VIVO-ISF
