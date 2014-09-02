@@ -27,7 +27,7 @@ Most faculty are appointed at the aabb level.  It is rare to see people appointe
 ## Checking the deptids
 
 A list of deptids is checked against a list of deptids in VIVO.  If a deptid is missing from VIVO it can be added
-to an existing organization by "rolling" up to the existing 6 o4 4 level org.  
+to an existing organization by "rolling" up to the existing 6 or 4 level org.  
 
 ## Adding deptids to an existing org
 
