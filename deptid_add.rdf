@@ -6,7 +6,7 @@
     xmlns:owl     = "http://www.w3.org/2002/07/owl#"
     xmlns:swrl    = "http://www.w3.org/2003/11/swrl#"
     xmlns:swrlb   = "http://www.w3.org/2003/11/swrlb#"
-    xmlns:vitro1  = "http://vitro.mannlib.cornell.edu/ns/vitro/0.7#"
+    xmlns:vitro   = "http://vitro.mannlib.cornell.edu/ns/vitro/0.7#"
     xmlns:bibo    = "http://purl.org/ontology/bibo/"
     xmlns:c4o     = "http://purl.org/spar/c4o/"
     xmlns:dcelem  = "http://purl.org/dc/elements/1.1/"

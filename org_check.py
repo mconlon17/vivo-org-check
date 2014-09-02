@@ -1,6 +1,6 @@
 """
     org_check.py -- Given a list of deptids, check them against VIVO.
-    Report high level missign deptids.  Add lowe level deptids to
+    Report high level missing deptids.  Add lower level deptids to
     existing UF orgs.
 
     Version 0.1 MC 2014-08-02
@@ -16,40 +16,41 @@ __copyright__ = "Copyright 2014, University of Florida"
 __license__ = "BSD 3-Clause license"
 __version__ = "0.1"
 
-from vivotools import make_deptid_dictionary
-from vivotools import read_csv
-from vivotools import assert_data_property
-from vivotools import rdf_header
-from vivotools import rdf_footer
+from vivofoundation import make_deptid_dictionary
+from vivofoundation import read_csv
+from vivofoundation import assert_data_property
+from vivofoundation import rdf_header
+from vivofoundation import rdf_footer
 from datetime import datetime
-from string import digits
 
 # Helper Functions
+
 
 def skip_deptid(deptid):
     """
     For patterns in a skip list, check deptids to see if deptids should
     be skipped
     """
-    skip_list = [
-        "^[^0-9]", # skip the alphabetic deptid
-        "^74", # institutional activities funds
-        "^75", # contruction and rennovation funds
-        "^76", # institutional activities funds
-        "^1831", # legacy ?
-        "^1832", # legacy ?
-        "^1940", # accounting only
-        "^1922", # accounting only
-        "36000000", # place holder for COM/PHHP joint programs
-        "60990000", # financial reporting only
-        "^6121",
-        "^6122",
-        "^6123",
-        "^6124", # four financial buckets in business affairs
-        "64990000", # financial reporting only
-        "27990000", # financial reporting only
-        "95000000", # place holder for DSO top level
-        "^9536"  # accounting only?
+    skip_list = \
+        [
+            "^[^0-9]",  # skip the alphabetic deptid
+            "^74",  # institutional activities funds
+            "^75",  # construction and renovation funds
+            "^76",  # institutional activities funds
+            "^1831",  # legacy ?
+            "^1832",  # legacy ?
+            "^1940",  # accounting only
+            "^1922",  # accounting only
+            "36000000",  # place holder for COM/PHHP joint programs
+            "60990000",  # financial reporting only
+            "^6121",
+            "^6122",
+            "^6123",
+            "^6124",  # four financial buckets in business affairs
+            "64990000",  # financial reporting only
+            "27990000",  # financial reporting only
+            "95000000",  # place holder for DSO top level
+            "^9536"  # accounting only?
         ]
     import re
     skip = False
@@ -62,7 +63,7 @@ def skip_deptid(deptid):
 
 print datetime.now(), "Start"
 
-# Prepare UF depids
+# Prepare UF deptids
 
 uf_data = read_csv("deptid_list.csv")
 uf_deptids = {}
@@ -70,7 +71,7 @@ for row in uf_data.values():
     uf_deptids[row['dept_id']] = row['deptName']
 print datetime.now(), "UF has ", len(uf_deptids), "deptids"
 
-# Gather VIVO deptds
+# Gather VIVO deptids
 
 vivo = make_deptid_dictionary()
 print datetime.now(), "VIVO has ", len(vivo), "deptids"
@@ -96,7 +97,7 @@ for deptid in sorted(uf_deptids):
         found = found + 1
     elif skip_deptid(deptid):
         skip = skip + 1
-    elif name.startswith('HN'): # Harn does not follow the structure
+    elif name.startswith('HN'):  # Harn does not follow the structure
         ardf = ardf + assert_data_property(vivo['57800000'],
             "ufVivo:deptID", deptid)
         print datetime.now(), deptid, "added to Harn"
@@ -143,7 +144,7 @@ for deptid in sorted(uf_deptids):
                 "Please add."
             l4miss = l4miss + 1
 
-# write out the RDF to add deptids to existing orgs
+# write out the RDF to add deptids to existing organizations
 
 ardf = ardf + rdf_footer()
 rdf_file = open("deptid_add.rdf", "w")
