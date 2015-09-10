@@ -5,16 +5,14 @@
 
     Version 0.1 MC 2014-08-02
     --  Initial version.  Works as expected.
-
-    To do:
-    --  update for VIVO-ISF
-    --  update for tools 2.0
+    Version 0.2 MC 2015-09-10
+    -- Upgrading to VIVO-ISF
 """
 
 __author__ = "Michael Conlon"
-__copyright__ = "Copyright 2014, University of Florida"
-__license__ = "BSD 3-Clause license"
-__version__ = "0.1"
+__copyright__ = "Copyright 2015 (c) Michael Conlon"
+__license__ = "New BSD License"
+__version__ = "0.2"
 
 from vivofoundation import make_deptid_dictionary
 from vivofoundation import read_csv
@@ -65,7 +63,7 @@ print datetime.now(), "Start"
 
 # Prepare UF deptids
 
-uf_data = read_csv("deptid_list.csv")
+uf_data = read_csv("deptid_list_20150910.csv")
 uf_deptids = {}
 for row in uf_data.values():
     uf_deptids[row['dept_id']] = row['deptName']
@@ -79,7 +77,7 @@ print datetime.now(), "VIVO has ", len(vivo), "deptids"
 # Check each deptid
 
 missing_l4 = {}
-total=0
+total = 0
 found = 0
 skip = 0
 needl2 = 0
