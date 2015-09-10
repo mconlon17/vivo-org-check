@@ -4,7 +4,7 @@ _This is a UF specific repository_
 
 At UF, organizations have eight digit department identifiers knows as "deptids".  People are appointed
 to deptids.  in UF VIVO, an ontology extension records a person's deptid as home department, and 
-and inverse property of the home department records the associations with people.
+an inverse property of the home department records the associations with people.
 
 When adding people to VIVO, HR data indicates the home department via deptid.  The deptid must be found in
 in VIVO, otherwise the person can not be added.'
